@@ -23,11 +23,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- SOCIAL BADGES ROW — Replace [USERNAME] and [EMAIL] placeholders -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gulshan_Jangid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/gulshan-jangid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gulshan_Jangid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/gulshan-jangid-2a2533265/)
 [![GitHub](https://img.shields.io/badge/GitHub-GulshanJangid-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/GulshanJangid)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-00d4ff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117)](https://gulshanjangid.dev)
-[![Email](https://img.shields.io/badge/Email-gulshan%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:gulshan@email.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-GulshanJangid-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117)](https://leetcode.com/GulshanJangid)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-00d4ff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117)](https://gulshan-jangid.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-gulshanjangid333%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:gulshanjangid333@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-gulshan__jangid-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117)](https://leetcode.com/u/gulshan_jangid/)
 
 <br/>
 
@@ -418,15 +418,15 @@ DevOps / Cloud    █████████████░░░░░░░ 6
 
 <!-- Replace all links with your actual profiles -->
 
-<a href="https://linkedin.com/in/gulshan-jangid">
+<a href="https://www.linkedin.com/in/gulshan-jangid-2a2533265/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" height="40"/>
 </a>
 &nbsp;
-<a href="mailto:gulshan@email.com">
+<a href="mailto:gulshanjangid333@gmail.com">
   <img src="https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" height="40"/>
 </a>
 &nbsp;
-<a href="https://gulshanjangid.dev">
+<a href="https://gulshan-jangid.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-00d4ff?style=for-the-badge&logo=safari&logoColor=black&labelColor=0d1117" height="40"/>
 </a>
 
@@ -436,7 +436,7 @@ DevOps / Cloud    █████████████░░░░░░░ 6
   <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" height="40"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/GulshanJangid">
+<a href="https://leetcode.com/u/gulshan_jangid/">
   <img src="https://img.shields.io/badge/LeetCode-Solve_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117" height="40"/>
 </a>
 
@@ -481,10 +481,10 @@ DevOps / Cloud    █████████████░░░░░░░ 6
 <!--                                                                                -->
 <!--  REPLACE THESE BEFORE PUBLISHING:                                              -->
 <!--  1. GulshanJangid → your actual GitHub username (everywhere)                   -->
-<!--  2. gulshan@email.com → your actual email address                              -->
-<!--  3. linkedin.com/in/gulshan-jangid → your actual LinkedIn URL                  -->
-<!--  4. gulshanjangid.dev → your actual portfolio URL                              -->
-<!--  5. leetcode.com/GulshanJangid → your actual LeetCode profile                  -->
+<!--  2. ✅ gulshanjangid333@gmail.com — DONE                                       -->
+<!--  3. ✅ linkedin.com/in/gulshan-jangid-2a2533265 — DONE                         -->
+<!--  4. ✅ gulshan-jangid.netlify.app — DONE                                       -->
+<!--  5. ✅ leetcode.com/u/gulshan_jangid — DONE                                    -->
 <!--  6. Project repo links → your actual GitHub repository URLs                    -->
 <!--  7. Live demo links → your deployed app URLs                                   -->
 <!--                                                                                -->
